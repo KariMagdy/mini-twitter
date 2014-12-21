@@ -29,6 +29,10 @@ group :development, :test do
   gem 'simplecov'
   gem 'faker'
 end
+
+gem 'devise'
+gem "cancan"
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
